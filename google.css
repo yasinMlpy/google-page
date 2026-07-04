@@ -1,0 +1,33 @@
+.g1{
+    text-align: center;
+    
+}
+
+#g2{
+    display: block;
+    margin: 0 auto;
+    width: 570px;
+    height: 30px;
+    border-radius: 20px;
+
+}
+
+.logo{
+    height: 400px;
+    width: 650px;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    gap: 18px;
+}
+
+.g3{
+    background-color: rgb(221, 221, 221);
+    color: black;
+    border-radius: 5px;
+    height: 25px;
+}
